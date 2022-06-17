@@ -11,21 +11,21 @@
 <name>[COLOR lime]*[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]* [COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
-<externallink></externallink>
+<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/base-tv-au-vivo.xml</externallink>
 </channel>
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Filmes[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]* [COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
-<externallink></externallink>
+<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/Base-Filmes.xml</externallink>
 </channel>
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Series[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]* [COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
-<externallink></externallink>
+<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Base-Series.xml</externallink>
 </channel>
 </channels>
