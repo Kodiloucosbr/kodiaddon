@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 group-title="Canais | CLÁSSICOS DESENHOS 24 HORAS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan]@by_kodiloucosbr[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://falko.myddns.me/Logos/Infantil24h/149.png",24H CAVERNA DO DRAGÃO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan]@by_kodiloucosbr[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://51.89.98.62:8080/jean02/jean02/28136
