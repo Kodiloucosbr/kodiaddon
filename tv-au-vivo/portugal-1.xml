@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan]@by_kodiloucosbr[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://media.c-x-c.media/picons/PT/rtp1.png",Rtp 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan]@by_kodiloucosbr[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://mataformigas.xyz:8080/marcos/marcos/54814
