@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]ADDON KODILOUCOSBR[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]ADDON KODILOUCOS BR[/COLOR]</name>
 <thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
 <fanart>https://i.imgur.com/msft5dW.png</fanart>
-<info>[COLOR blue]* [COLOR lime] bem vindo au addon Kodiloucos br [/COLOR]</info>
+<info>[COLOR blue]* [COLOR lime] bem vindo ao addon Kodiloucos br [/COLOR]</info>
 <externallink>https://0.0.0.0</externallink>
 </channel>
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]TV AO VIVO[/COLOR]</name>
 <thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+<info>[COLOR blue]*[COLOR lime]bem vindo ao addon Kodiloucos br [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/base-tv-au-vivo.xml</externallink>
 </channel>
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Filmes[/COLOR]</name>
 <thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+<info>[COLOR blue]*[COLOR lime]bem vindo ao addon Kodiloucos br [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/Base-Filmes.xml</externallink>
 </channel>
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Series[/COLOR]</name>
 <thumbnail>https://i.imgur.com/hs7oeMN.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+<info>[COLOR blue]*[COLOR lime]bem vindo ao addon Kodiloucos br [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Base-Series.xml</externallink>
 </channel>
 </channels>
