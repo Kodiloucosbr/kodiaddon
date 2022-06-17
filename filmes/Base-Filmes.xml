@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white] Filmes[/COLOR]</name>
 <thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/Filmes.xml</externallink>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]bem vindo ao addon Kodiloucos br [/COLOR]</info>
-
 </channel>
+
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Lancamentos[/COLOR]</name>
 <thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/lancamentos.xml/externallink>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/lancamentos.xml</externallink>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]bem vindo ao addon Kodiloucos br [/COLOR]</info>
 </channel>
+
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Nostalgia[/COLOR]</name>
 <thumbnail>https://i.imgur.com/YBLs2kx.png</thumbnail>
@@ -22,4 +24,5 @@
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]bem vindo ao addon Kodiloucos br [/COLOR]</info>
 </channel>
+
 </channels>

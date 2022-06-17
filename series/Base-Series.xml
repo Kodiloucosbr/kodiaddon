@@ -7,10 +7,19 @@
 <fanart>https://i.imgur.com/msft5dW.png</fanart>
 <info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
 </channel>
+
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Lancamentos[/COLOR]</name>
 <thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series-Lancamentos.xml</externallink>
+<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLOR lime]*[/COLOR] [COLOR white]Nostalgia[/COLOR]</name>
+<thumbnail>https://i.imgur.com/YBLs2kx.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series-Nostalgia.xml</externallink>
 <fanart>https://i.imgur.com/msft5dW.png</fanart>
 <info>[COLOR blue]*[COLOR lime]bem vindo au addon Kodiloucos br [/COLOR]</info>
 </channel>
