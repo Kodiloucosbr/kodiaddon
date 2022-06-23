@@ -8,7 +8,7 @@
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>
 Original: VOD
-Lançamento: 1982. / Duração: 2h 9m / Gênero: Aventura, Fantasia, Ação
+Lançamento: 1982. / Duração: 2h 9m / Gênero: Aventura
 Sinopse:Há milhares de anos, Thulsa Doom, um demoníaco feiticeiro, comanda um ataque em uma aldeia por motivos até hoje não revelados, que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. 
 Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos.
 </info>
@@ -21,13 +21,51 @@ Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser mass
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>
 Original: VOD
-Lançamento: 1984. / Duração: 1h 43m / Gênero: Aventura, Fantasia, Ação
+Lançamento: 1984. / Duração: 1h 43m / Gênero: Aventura
 Sinopse:Para que a rainha Taramis cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, 
 o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna
 </info>
 </item>
 ********************************************************************************************************************************************************
-
+<item>
+<title>[COLOR silver]Conan, O Bárbaro (2011)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>
+Original: VOD
+Lançamento: 2022. / Duração: 1h 53m / Gênero: Aventura
+Sinopse:Conan vê sua aldeia ser destruída e seus pais serem assassinados por um Thulsa Doom, um cruel feiticeiro. 
+Com um forte desejo de vingança, ele parte em busca de justiça e descobre que pode ser a única esperança de salvar as nações de Hibória de uma invasão sobrenatural.
+</info>
+</item>
+********************************************************************************************************************************************************
+<item>
+<title>[COLOR silver]Red Sonja - Guerreiros de Fogo (1985)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEB45CB85D0C76828EC1FEED4A0F39963BF3337E</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lRhxd9M5I7sfzN2c02vhKxj4o5P.jpg</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>
+Original: VOD
+Lançamento: 1985.Duração: 1h 29m / Gênero: Aventura
+Sinopse:Em um mundo de barbárie, a rainha Gedren deseja o poder absoluto. 
+Ela invade a cidade de Hablac e mata o guardião de um talismã que lhe dará esse poder
+</info>
+</item>
+********************************************************************************************************************************************************
+<item>
+<title>[COLOR silver]Krull (1983)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08CF909FCF8E445476F204A21E7CC40CE8940B3F</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b1anwwbh00R3iOgM88L5jf7qHBt.jpg</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>
+Original: VOD
+Lançamento: 1983./ Duração: 2h 1m / Gênero: Aventura
+Sinopse:No planeta Krull, uma criatura maligna chamada A Besta dizima o exército mundial e sequestra a doce princesa Lyssa, destinada a ser rainha. 
+Seu amado, o príncipe Colwyn, lidera um bando de rebeldes para resgatá-la
+</info>
+</item>
+********************************************************************************************************************************************************
 <item>
 <title>[COLOR silver]O Nome da Rosa (1986) [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85edbf21c763ce3bdf065cdae66f4ef06dc97ad4</link>
@@ -54,7 +92,6 @@ Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no fin
 </info>
 </item>
 ************************************************************************************************************************************
-
 <item>
 <title>[COLOR silver]Godzilla vs. Gigan (1972)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21d0acc0c8f69756ded660fdc480ef4e792d2227</link>
