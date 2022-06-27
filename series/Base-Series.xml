@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+  
+<channel>
+<name>[COLOR lime]*[/COLOR] [COLOR white]Lançamentos[/COLOR]</name>
+<thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series-Lancamentos.xml</externallink>
+<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+</channel>
+  
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white] Series[/COLOR]</name>
 <thumbnail>https://i.imgur.com/hs7oeMN.png</thumbnail>
@@ -8,13 +17,6 @@
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 </channel>
 
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]Lancamentos[/COLOR]</name>
-<thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series-Lancamentos.xml</externallink>
-<fanart>https://i.imgur.com/msft5dW.png</fanart>
-<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
-</channel>
 
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]Nostalgia[/COLOR]</name>
