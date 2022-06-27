@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]Obi-Wan Kenobi 1ª Temporada (2022)[/COLOR]</name>
-<thumbnail>https://i.imgur.com/Mw9BxZQ.png</thumbnail>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>Baseado no famoso personagem de Star Wars, a série acompanha as aventuras de Obi-Wan Kenobi (Ewan McGregor), uma década depois dos acontecimentos de A Vingança dos Sith. A trama começa com Obi-Wan cuidando de Luke Skywalker à distância no planeta Tatooine enquanto vive exilado no planeta. Luke vive com seus tios Owen (Joel Edgerton) e Beru Whitesun (Bonnie Plesse), dois fazendeiros que se esforçam para dar um vida normal para o futuro Jedi. Porém, Obi-Wan sabe do perigo iminente que o menino está exposto com seu pai foragido esperando o momento para atacar. Rapidamente as forças do mal começam a ressurgir com a volta de Darth Vader (Hayden Christensen) e ele precisa sair em uma perigosa aventura para proteger Luke e o futuro do universo. Além de Vader, outros vilões de cantos obscuros da galáxia voltam para colocar os Jedi em perigo e cabe a Obi-Wan usar todas as suas habilidades para não apenas proteger Luke, mas ensiná-lo o que ele precisa para se tornar um grande herói.</info>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/seris-lancamentos/Obi-Wan-Kenobi/base-Obi-Wan-Kenobi.xml</externallink>
-</channel>
 
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]Ms. Marvel 1ª Temporada (2022)[/COLOR]</name>
-<thumbnail>https://i.imgur.com/k36wpea.png</thumbnail>
+<item>
+<title>[B]Ms. MARVEl - 1ª Temporada [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y2RTDORUA6UI6234G3YLIL7AYPAHBVHC&dn$nome=S01E01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P5PKW6VXQXQZ4SWWTVF3Z3PWBD25PYCQ&dn$nome=S01E02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HYHIA7A7FPS6N2LAHYZRDNWDH6FOMG7L&dn$nome=S01E03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:link&dn$nome=S01E04 em breve</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NOME&dn$nome=S01E04</link>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>Uma grande estudante, jogadora ávida e escritora voraz de fan-fic, Kamala Khan tem uma afinidade especial por Super-Heróis, especialmente a Capitã Marvel. No entanto, ela luta para se encaixar em casa e na escola – isto é, até conseguir superpoderes como os heróis que sempre admirou. A vida é mais fácil com super poderes, certo?</info>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/seris-lancamentos/Ms._Marvel/base-Ms.-Marvel.xml</externallink>
-</channel>
+<thumbnail>https://i.imgur.com/YbwYk7G.jpg</thumbnail>
+<genre>Ficção, Dublado</genre>
+<info>TEMPORADA 1
+Original: Disney+
+Lançamento: 2022 / Duração: 50m
+Sinopse: Kamala Khan é uma adolescente muçulmana de Jersey City. 
+Ela adora jogar videogames e escrever fanfictions, além de ser fã de super-heróis e ter uma imaginação sem limites – especialmente quando se trata da Capitã Marvel. Kamala sente que não se encaixa na escola e, às vezes, nem mesmo em casa. Mas um dia ela descobre que tem superpoderes como os heróis que sempre admirou... </info>
+</item>
 
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info></info>
-<externallink></externallink>
-</channel>
-
-</channels>
+******************************************************
