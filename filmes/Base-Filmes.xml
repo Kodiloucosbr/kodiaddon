@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]Lançamentos[/COLOR]</name>
-<thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/lancamentos.xml</externallink>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Kodiloucos Br [/COLOR]</info>
-</channel>
   
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white] Filmes[/COLOR]</name>
