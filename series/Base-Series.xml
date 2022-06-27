@@ -2,7 +2,7 @@
 <channels>
 
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white] Series[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]SÉRIES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/hs7oeMN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series.xml</externallink>
 <fanart>https://i.imgur.com/msft5dW.png</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]Nostalgia[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]NOSTALGIA[/COLOR]</name>
 <thumbnail>https://i.imgur.com/YBLs2kx.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series-Nostalgia.xml</externallink>
 <fanart>https://i.imgur.com/msft5dW.png</fanart>
