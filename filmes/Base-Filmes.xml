@@ -2,7 +2,7 @@
 <channels>
   
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white] Filmes[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]FILMES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/Filmes.xml</externallink>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]Nostalgia[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]NOSTALGIA[/COLOR]</name>
 <thumbnail>https://i.imgur.com/YBLs2kx.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/Nostalgia.xml</externallink>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
