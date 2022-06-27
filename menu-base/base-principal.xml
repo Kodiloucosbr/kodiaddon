@@ -9,6 +9,14 @@
 </channel>
 
 <channel>
+<name>[COLOR lime]*[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR]</name>
+<thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/Lan%C3%A7amentos/Lan%C3%A7amentos.xml</externallink>
+</channel>
+  
+<channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]TV AO VIVO[/COLOR]</name>
 <thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
