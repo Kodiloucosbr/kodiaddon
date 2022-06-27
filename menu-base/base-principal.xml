@@ -7,13 +7,7 @@
 <info>[COLOR blue]* [COLOR lime] Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://0.0.0.0</externallink>
 </channel>
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR]</name>
-<thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series-Lancamentos.xml</externallink>
-<fanart>https://i.imgur.com/msft5dW.png</fanart>
-<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
-</channel>
+
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]TV AO VIVO[/COLOR]</name>
 <thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
