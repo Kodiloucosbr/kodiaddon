@@ -9,7 +9,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]LANÇAMENTOS - Filmes e Séries[/COLOR]</name>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]LANÇAMENTOS - Filmes e Séries[/COLOR]</name>
 <thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
@@ -17,19 +17,13 @@
 </channel>
   
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]TV AO VIVO [/COLOR]</name>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]TV AO VIVO [/COLOR]</name>
 <thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/base-tv-au-vivo.xml</externallink>
 </channel>
-<channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]FILMES[/COLOR]</name>
-<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/Base-Filmes.xml</externallink>
-</channel>
+
 <channel>
 <name>[COLOR lime]*[/COLOR] [COLOR white]SÉRIES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/hs7oeMN.png</thumbnail>
@@ -37,4 +31,61 @@
 <info>[COLOR blue]*[COLOR lime]bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Base-Series.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]AÇÃO[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/A%C3%87%C3%83O/A%C3%87%C3%83O.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]FICÇÃO[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/FIC%C3%87%C3%83O/FIC%C3%87%C3%83O.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]TERROR[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/TERROR/TERROR.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]DRAMA[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/DRAMA/DRAMA.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]SUSPENSE[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/SUSPENSE/SUSPENSE.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]COMÉDIA[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/COM%C3%89DIA/COM%C3%89DIA.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime]KODILOUCOS BR[/COLOR] *[COLOR white]ROMANCE[/COLOR]</name>
+<thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/ROMANCE/ROMANCE.xml</externallink>
+</channel>
+
 </channels>
