@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>[B]Jerry e Marge Tiram a Sorte Grande [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b52720f7f1923de4cb0b6a2dfa45d4efb6b75cce</link>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg</thumbnail>
+<genre>Comédia, Dublado</genre>
+<info>   
+Original: VOD 
+Lançamento: 2022
+Sinopse: Inspirado na história real do aposentado Jerry Selbee que descobre uma brecha matemática na loteria de Massachusetts e, com a ajuda de sua esposa, Marge, ganha milhões e usa o dinheiro para reerguer sua pequena cidade em Michigan.
+</info>
+</item>
+*******************************************************
+<item>
+<title>[B]Algo Sobre Harry [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3e0580401a9a40e1d155cdc4c77dcf791d5b9f</link>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLlvHqZucZZ6P7KkCcrywE16QMI.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLlvHqZucZZ6P7KkCcrywE16QMI.jpg</thumbnail>
+<genre>Comédia, Dublado</genre>
+<info>   
+Original: VOD 
+Lançamento: 2022
+Sinopse: Os inimigos no Ensino médio, Harry e Sam, são forçados a compartilhar uma carona até sua cidade natal para uma festa. As coisas mudam quando Sam descobre que Harry se assumiu Pansexual. Obrigados a passar a noite juntos, Harry e Sam se perguntam se eles podem ser mais do que amigos.
+</info>
+</item>
+*******************************************************
 
+<item>
+<title>[B]Sonic 2: O Filme [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RU5ZNQQJG5YYOFYCVKUXTQKTI7QTEPYX</link>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
+<genre>Comédia-Dublado</genre>
+<info>    
+Ano de Lançamento: 2022
+Sinopse: Após conseguir se estabelecer em Green Hills, Sonic está pronto para mais liberdade e quer provar que tem o necessário para ser um herói de verdade. Seu teste virá quando Tom e Maddie concordam em deixá-lo em casa enquanto saem de férias para ir ao casamento da irmã de Rachel, no Havaí. Mas para a infelicidade do ouriço, a data acaba coincidindo com o retorno do Dr. Robotnik, dessa vez com um novo parceiro, Knuckles, depois que o doutor do mal vai embora para o planeta cogumelo.
+</info>
+</item>
+*******************************************************
 
 
 </items>
