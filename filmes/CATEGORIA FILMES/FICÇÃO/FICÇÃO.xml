@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
+<item>
+<title>[B]Guardiões do Tempo [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9e52039cadd7bf47d04e9f8e8b58a230456c558</link>
+<fanart>https://github.com/magusplay/Logos/raw/main/EQUILIBRIUM%20FANART.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfiW7ehO7jeUet06a3Z6FYz6C3l.jpg</thumbnail>
+<genre>Ficção, Dublado</genre>
+<info>   
+Original: VOD 
+Lançamento: 2022
+Sinopse: A garota Ksyusha é adotada por uma família de um escritor e uma artista. Ela finalmente teve sorte! Após um acidente de carro, a garota vai parar na Cidade Sombria, uma outra dimensão da cidade de São Petersburgo, onde, junto com seu assistente mágico Paramon, ela deve superar a feitiçaria do mal e retroceder o relógio da cidade para impedir que a Bruxa e seu exército negro assumam a cidade.
+</info>
+</item>
+*******************************************************
+<item>
+<title>[B]Sonic 2: O Filme [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3</link>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
+<genre>Ficção-Dublado</genre>
+<info>  
+Original: VOD
+Ano de Lançamento: 2022
+Sinopse: Após conseguir se estabelecer em Green Hills, Sonic está pronto para mais liberdade e quer provar que tem o necessário para ser um herói de verdade. Seu teste virá quando Tom e Maddie concordam em deixá-lo em casa enquanto saem de férias para ir ao casamento da irmã de Rachel, no Havaí. Mas para a infelicidade do ouriço, a data acaba coincidindo com o retorno do Dr. Robotnik, dessa vez com um novo parceiro, Knuckles, depois que o doutor do mal vai embora para o planeta cogumelo.
+</info>
+</item>
+*******************************************************
 
 
 </items>
