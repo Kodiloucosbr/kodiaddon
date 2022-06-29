@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>[B]Jerry e Marge Tiram a Sorte Grande [/B]</title>
+<title>[B] JERRY E MARGE TIRAM A SORTE GRANDE (2022) [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b52720f7f1923de4cb0b6a2dfa45d4efb6b75cce</link>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg</fanart>
+<fanart>https://i.imgur.com/YbwYk7G.jpg<</fanart>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg</thumbnail>
 <genre>Comédia, Dublado</genre>
 <info>   
@@ -14,9 +14,9 @@ Sinopse: Inspirado na história real do aposentado Jerry Selbee que descobre uma
 </item>
 *******************************************************
 <item>
-<title>[B]Algo Sobre Harry [/B]</title>
+<title>[B]ALGO SOBRE HARRY (2022) [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3e0580401a9a40e1d155cdc4c77dcf791d5b9f</link>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLlvHqZucZZ6P7KkCcrywE16QMI.jpg</fanart>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLlvHqZucZZ6P7KkCcrywE16QMI.jpg</thumbnail>
 <genre>Comédia, Dublado</genre>
 <info>   
@@ -28,9 +28,9 @@ Sinopse: Os inimigos no Ensino médio, Harry e Sam, são forçados a compartilha
 *******************************************************
 
 <item>
-<title>[B]Sonic 2: O Filme [/B]</title>
+<title>[B]SONIC 2: O FILME (2022) [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RU5ZNQQJG5YYOFYCVKUXTQKTI7QTEPYX</link>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</fanart>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
 <genre>Comédia-Dublado</genre>
 <info>    
@@ -39,6 +39,16 @@ Sinopse: Após conseguir se estabelecer em Green Hills, Sonic está pronto para 
 </info>
 </item>
 *******************************************************
+
+
+
+
+
+
+
+
+
+
 
 
 </items>
