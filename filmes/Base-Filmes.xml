@@ -66,4 +66,17 @@
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Kodiloucos Br [/COLOR]</info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]ABSURDO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/OvPa56Z.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/filmes/CATEGORIA%20FILMES/ABSURDO/ABSURDO.xml</externallink>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Kodiloucos Br [/COLOR]</info>
+</channel>
+
+
+
+
+
+
 </channels>
