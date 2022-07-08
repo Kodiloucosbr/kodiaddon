@@ -172,21 +172,6 @@ Sinopse:Clube Elysium, pode parecer um paraíso. Mas a poucos metros da praia, s
 </item>
 ********************************************************************************************************************************************************
 <item>
-<title>[COLOR silver]CANNIBAL HOLOCAUST(1980)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9CB2D57A83F0095CAC3D87E45FC5A3C0000A71D</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sdgkBSsqBoTEJ00mXfpCCBHz42f.jpg</thumbnail>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<info>
-Original: VOD
-Lançamento: 1980 / Duração: 1h 35m / Gênero: Terror, Perversão.
-Sinopse:O filme conta a história de quatro documentaristas de tribos que embrenham-se na selva para filmar indígenas. 
-Dois meses mais tarde, depois que o grupo não retorna, o famoso antropólogo Harold Monroe viaja em uma missão de resgate para encontrá-los. 
-Ele consegue recuperar as latas de filme perdidas, que revelam o destino dos cineastas desaparecidos.
-
-</info>
-</item>
-********************************************************************************************************************************************************
-<item>
 <title>[COLOR silver]ALLIGATOR - O JACARÉ GIGANTE (1980)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F355542E9361BB572E2ACAB24A9B616F1FA30065</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8pmoC0rUCBNhCoPbrkymqATUCFS.jpg</thumbnail>
@@ -210,6 +195,21 @@ Original: VOD
 Lançamento: 1991 / Duração: 1h 32m / Gênero: Terror.
 Sinopse:A sequência do aclamado Alligator, lançado em 1981. Agora um sujeito sem escrúpulos polui um lago com produtos químicos, um jacaré se alimenta deles e se torna uma criatura monstruosa, tão monstruosa quanto seu apetite por carne humana. O lago onde ele vive é ligado ao sistema de esgoto de uma pequena cidade, isso é o suficiente para o caos começar.
 Um belo clássico que passava nas tardes do SBT, no extinto cinema em casa. Alligator 2, Mutação vem com todos os ingredientes necessários para um bom filme de terror, lixo químico, uma cidadezinha no meio do nada e um jacaré gigante. .
+
+</info>
+</item>
+********************************************************************************************************************************************************
+<item>
+<title>[COLOR silver]CANNIBAL HOLOCAUST(1980)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9CB2D57A83F0095CAC3D87E45FC5A3C0000A71D</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sdgkBSsqBoTEJ00mXfpCCBHz42f.jpg</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>
+Original: VOD
+Lançamento: 1980 / Duração: 1h 35m / Gênero: Terror, Perversão.
+Sinopse:O filme conta a história de quatro documentaristas de tribos que embrenham-se na selva para filmar indígenas. 
+Dois meses mais tarde, depois que o grupo não retorna, o famoso antropólogo Harold Monroe viaja em uma missão de resgate para encontrá-los. 
+Ele consegue recuperar as latas de filme perdidas, que revelam o destino dos cineastas desaparecidos.
 
 </info>
 </item>
@@ -650,7 +650,7 @@ No entanto, aos poucos ela começa a notar um comportamento estranho no cachorro
 Diante desse comportamento racista do cachorro, Julie resolve entregar o animal aos cuidados de Keys, um adestrador, ele próprio negro, para tentar reeducar o animal.
 </info>
 </item>
-********************************************************************************************************************************************************
+*********************************************************
 <item>
 <title>[COLOR silver]A HORA DO PESADELO - COLETÂNEA (1986)]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C493313076D7089AA8EAD200FFFFB73C65D2B414</link>
@@ -676,6 +676,29 @@ Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes
 Original: VOD
 Lançamento: 1987/ Gênero:Terror
 Sinopse:Uma esposa infiel encontra o zumbi de seu amante morto, que está sendo perseguido por demônios depois que ele escapou de seu inferno sado-masoquista
+</info>
+</item>
+********************************************************************************************************************************************************
+
+<item>
+<title>[COLOR silver]HALLOWEEN - COLEÇÃO 1 ao 6 (1978) [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8A727B9A4486AE7322B015AB0C03E0F6A9EBE12F</link>
+<thumbnail>https://i.imgur.com/mhpjdaE.jpg</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>
+Original: VOD
+Lançamento: 1978/ Gênero:Terror
+Sinopse:Halloween - A Noite do Terror: Michael Myers (Tony Moran) é um psicopata que vive em uma instituição há 15 anos, desde quando matou sua própria irmã. Porém, ele consegue fugir de seu cativeiro e retorna à sua cidade natal para continuar seus crimes na localidade que, aterrorizada, ainda se lembra dele.
+
+Halloween 2 - O Pesadelo Continua: Haddonfield, Illinois, 31 de outubro de 1978, noite de Halloween. Michael Myers (Tony Moran) assassina três estudantes e tenta matar Laurie Strode (Jamie Lee Curtis), o que apenas não consegue porque o psiquiatra dela, Samuel Loomis (Donald Pleasence), atirou seis vezes em Myers, que escapou apesar de ter sido baleado. Laurie foi levada para a Haddonfield Memorial, o hospital da localidade, para tratar dos ferimentos e se recuperar do choque, mas começa a questionar por qual razão Michael a perseguiu. Enquanto isso, Loomis e a polícia procuram Michael pela cidade. Ele continua fazendo outras vítimas, mas seu objetivo é ir até o hospital e assassinar Laurie. Há uma razão para esta obsessão doentia, um motivo que nem Loomis sabe ainda.
+
+Halloween III - A Noite das Bruxas: Um médico investiga as mortes violentas de pacientes em seu hospital e descobre o responsável pelas atrocidades: um maníaco, criador de máscaras de bruxas, decidido a espalhar o terror pelo país.
+
+Halloween 4 - O Retorno de Michael Myers: Michael Myers (George P. Wilbur), um maníaco homicida deformado em explosão, passa dez anos em manicômio, alimentando seu desejo de vingança. Finalmente solto, parte para a cidade de Haddenfield disposto a acabar com todos.
+
+Halloween 5 - A Vingança de Michael Myers: O perverso Michael Myers (Don Shanks) está de volta a Salt Lake City para matar sua sobrinha. Mas o Dr. Loomis (Donald Pleasence) prepara uma armadilha para liquidá-lo de uma vez por todas.
+
+Halloween 6 - A Última Vingança: O homicida Michael Myers (George P. Wilbur) retorna mais uma vez do além, para tentar acabar com o resto da família que persegue. Mas seu principal inimigo, Dr. Loomis (Donald Pleasence), está atento aos seus movimentos e pronto para defender a família contra aquele que considera ser a personificação do Mal.
 </info>
 </item>
 ********************************************************************************************************************************************************
