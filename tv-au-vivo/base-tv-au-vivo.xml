@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL f4mtester[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL f4mtester 1[/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNs47ft.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/brasil-tv-1.xml</externallink>
 </channel>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL f4mtester[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL f4mtester 2[/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNs47ft.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/brasil-tv-2.xml</externallink>
 </channel>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]PORTUGAL f4mtester[/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL f4mtester 3[/COLOR]</name>
+<thumbnail>https://i.imgur.com/bNs47ft.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/brasil-tv-3.xml</externallink>
+</channel>
+<channel>
+<name>[COLOR lime]*[/COLOR] [COLOR white]PORTUGAL f4mtester 4[/COLOR]</name>
 <thumbnail>https://i.imgur.com/z3HzMDx.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
