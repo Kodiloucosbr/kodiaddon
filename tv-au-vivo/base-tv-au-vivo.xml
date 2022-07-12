@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL - SERVIDOR 1: f4mtester [/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL (Servidor 1) - f4mtester [/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNs47ft.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/brasil-tv-1.xml</externallink>
 </channel>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL - SERVIDOR 2: f4mtester [/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL  (Servidor 2) - f4mtester [/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNs47ft.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/brasil-tv-2.xml</externallink>
 </channel>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL - SERVIDOR 3: f4mtester [/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]BRASIL  (Servidor 3) - f4mtester [/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNs47ft.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/tv-au-vivo/brasil-tv-3.xml</externallink>
 </channel>
 <channel>
-<name>[COLOR lime]*[/COLOR] [COLOR white]PORTUGAL - SERVIDOR 1: f4mtester [/COLOR]</name>
+<name>[COLOR lime]*[/COLOR] [COLOR white]PORTUGAL  (Servidor 1) - f4mtester [/COLOR]</name>
 <thumbnail>https://i.imgur.com/z3HzMDx.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
