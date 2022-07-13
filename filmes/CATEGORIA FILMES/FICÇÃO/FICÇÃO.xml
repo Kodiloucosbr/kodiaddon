@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
+<item>
+<title>  RUBIKON - LEGENDADO. (2022) </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c43c7aa4fa91cea65175cbdc3d44c5e91ad925ca</link>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OSsbe4ua2ilipr5EPf4aKDvK9y.jpg</thumbnail>
+<genre>Drama,Ficção-Legendado. </genre>
+<info>   
+Original: VOD 
+Lançamento: 2022  
+Sinopse: Uma catástrofe cobriu tudo na Terra em uma névoa tóxica. Em Rubikon, o ano é 2056, e uma nuvem tóxica de poluição engole o planeta e mata a grande maioria dos humanos. Com um cenário tão desesperador, cabe a um grupo de astronautas decidir se vale a pena deixar sua estação espacial e voar de volta à Terra, arriscando suas vidas para chegar em casa e procurar sobreviventes, ou se manter segura no “sistema de simbiose de algas” da estação, iniciando uma nova civilização.
+</info>
+</item>
+***************************************************
+<item>
 <item>
 <title> JURASSIC WORLD: DOMÍNIO- DUBLADO (2022) </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96C33E7D1F4D9208723D733F53F0508440FC280F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62466589805bace95defa3349af75694f6966c70</link>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
 <genre>Ação,Ficção-Dublado. </genre>
@@ -14,19 +27,7 @@ Sinopse: Anos após a destruição da fantástica ilha Nublar, dominada pelos gi
 </info>
 </item>
 ***************************************************
-<item>
-<title> JURASSIC WORLD: DOMÍNIO- LEGENDADO (2022) </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e66211b0c46930839566a0cce1f479ec12b2549</link>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dwVkoTqFZfrfMOs82afaSt9dPzR.jpg</thumbnail>
-<genre>Ação,Ficção-Legendado. </genre>
-<info>   
-Original: VOD 
-Lançamento: 2022  
-Sinopse: Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?
-</info>
-</item>
-***************************************************
+
 <item>
 <title> CRYO - LEGENDADO (2022) </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54B8CABA08F1CA14E87978A89C22958EAB9FE09B</link>
