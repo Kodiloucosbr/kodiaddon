@@ -17,7 +17,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]LANÇAMENTOS [/COLOR][/B]</name>
+<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]LANÇAMENTOS. [/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
@@ -25,7 +25,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]FILMES.[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/0wfJLiV.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
@@ -33,12 +33,25 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]SÉRIES.[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/hs7oeMN.png</thumbnail>
 <fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/series/Series.xml</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR lime]KODILOUCOS BR[/COLOR] * [COLOR white]DESENHOS.[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/g510KQ3.png</thumbnail>
+<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<info>[COLOR blue]*[COLOR lime]bem vindo ao addon KODILOUCOS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Kodiloucosbr/kodiaddon/main/desenhos/Desenhos.xml</externallink>
+</channel>
+
+
+
+
+
 
 
 
